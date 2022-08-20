@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdo-Mohamad
 - 👀 I’m interested in codin
-- 🌱 I’m currently learning HTML, CSS, jAVASCRIPT, SQL
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me professional
 
