@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdo-Mohamad
-- 👀 I’m interested in codin
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL
-- 💞️ I’m looking to collaborate on new project
+- 💞️ I’m looking to collaborate on a new project
 - 📫 How to reach me professional
 
 <!---
